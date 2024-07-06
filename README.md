@@ -1,1 +1,1 @@
-# tolia - Clean and assez.
+# tolia - A clean and assez Zola theme.
