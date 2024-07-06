@@ -4,5 +4,6 @@ compile_sass = true
 
 [markdown]
 highlight_code = true
+highlight_theme = "base16-ocean-dark"
 
 [extra]
